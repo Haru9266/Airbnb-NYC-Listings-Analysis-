@@ -121,7 +121,7 @@ Pro-7-Airbnb-NYC-Analysis/
  
 > Power BI Dashboard — Airbnb NYC Listings Analysis
 
-![Airbnb NYC Dashboard](images/dashboard.png)
+![Airbnb NYC Dashboard](Screenshot%202026-06-16%20155814.png)
 The dashboard includes:
 - **KPI Cards** — Avg Price ($152), Total Reviews (1M+), Unique Hosts (37K), Total Listings (49K)
 - **Donut Chart** — Listings by Room Type
